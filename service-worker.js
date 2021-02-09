@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gibbsben.github.io/homelessprojectmaastricht%20/precache-manifest.8b030484feef9ff32f7c5bce28968bae.js"
+  "/gibbsben.github.io/homelessprojectmaastricht%20/precache-manifest.d8b984c8048a3154f56bba703d79d4ec.js"
 );
 
 self.addEventListener('message', (event) => {
