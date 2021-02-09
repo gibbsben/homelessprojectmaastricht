@@ -2,7 +2,7 @@
   "name": "navbar-dropdown-v1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "gibbsben.github.io/hpm",
+  "homepage": "gibbsben.github.io/HPM",
 
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
