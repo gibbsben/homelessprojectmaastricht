@@ -13,10 +13,10 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path='/' exact component={Home} />
+          <Route path='/gibbsben.github.io/hpm' exact component={Home} />
       
-          <Route path='/project' component={project} />
-          <Route path='/aboutUs' component={aboutUs} /> 
+          <Route path='/gibbsben.github.io/project' component={project} />
+          <Route path='/gibbsben.github.io/aboutUs' component={aboutUs} /> 
         </Switch>
       </Router>
     </>
